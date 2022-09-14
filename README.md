@@ -1,5 +1,18 @@
 # React-shop-cloudfront
 
+## Links
+1) manual deployment
+    - Bucket website url http://shop-react-redux-ant.s3-website-eu-west-1.amazonaws.com/
+    - CloudFront url https://d20is08adlatt8.cloudfront.net/
+
+2) automated deployment
+    - Bucket website url http://shop-react-redux-ant-automatic.s3-website-eu-west-1.amazonaws.com/
+    - CloudFront url https://d3725g9m9gd6mu.cloudfront.net/
+
+________________________________________________________________________
+
+
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
